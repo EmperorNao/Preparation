@@ -30,3 +30,4 @@ class Solution:
         seq = 1
         for i in range(1, len(sort)):
             if nums[i] > nums[last_ind] and indexes[i] > :
+                
